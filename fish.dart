@@ -7,7 +7,7 @@ abstract class Fish extends Animal implements CanSwim, CanBreatheUnderwater {
 
   @override
   void move() {
-    print('$name schwimmt');
+    print('$name bewegt sich');
   }
 
   @override

@@ -11,6 +11,6 @@ class Shark extends Fish implements CanKill {
 
   @override
   void kill() {
-    print('$name kills violently');
+    print('$name tötet');
   }
 }
