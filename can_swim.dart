@@ -1,3 +1,3 @@
-abstract class CanSwim {
+abstract interface class CanSwim {
   void swim();
 }

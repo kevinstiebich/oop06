@@ -1,3 +1,3 @@
-abstract class CanKill {
+abstract interface class CanKill {
   void kill();
 }

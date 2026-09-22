@@ -1,3 +1,3 @@
-abstract class CanBreatheUnderwater {
+abstract interface class CanBreatheUnderwater {
   void breatheUnderwater();
 }
